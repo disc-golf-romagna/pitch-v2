@@ -130,14 +130,8 @@ class: europe
 
 ::right::
 ### Il caso
-- Strategia chiave: Integrazione urbana con mini-percorsi
-- 2015: 25 percorsi → 2024: oltre 200 percorsi
-- 60% sono percorsi urbani da 6-9 ceste
-- Popolazione coinvolta: da 500 a 50.000+ giocatori
-### Fattori di Successo
-- Approccio Multi-livello
-- Mini-percorsi urbani (5-6 ceste) nei parchi cittadini
-- Percorsi completi (9-18 ceste) nelle zone periferiche
+- Percorsi fissi: 25 percorsi nel 2015, oltre 200 percorsi nel 2024
+- Popolazione coinvolta: circa 500 nel 2015, oltre 50.000 giocatori nel 2024
 ### Benefici Dimostrati
 - Turismo sportivo (+300% dal 2019)
 - Costi di manutenzione minimi
@@ -145,7 +139,7 @@ class: europe
 
 ---
 layout: image-left
-image: /dgr.png
+image: /disc-golf-open-day-2025-full.jpg
 class: progetto
 ---
 
@@ -153,26 +147,10 @@ class: progetto
 ## Proposta per la promozione del <span class="text-cyan-500">Disc Golf</span> in <span class="text-pink-500">Romagna</span>
 <br/>
 
-- creazione di alcuni mini percorsi 6 ceste a Forli (min 2-3 ha, es. Parco Bargossi)
-- creazione di alcuni mini percorsi 6 ceste a Faenza (min 2-3 ha, es. Parco Bertozzi)
-- creazione primo percorso ufficiale 9 ceste (min 5-6 ha, es. Parco delle Ginestre)
-
-Crediamo che la sinergia fra i mini percorsi in parchi centrali della città ed il percorso 9 ceste fuori porta siano una chiave importante per il successo di tutto il progetto.
-
----
-layout: image-left
-image: /lipica.png
-class: sinergia
----
-
-# Sinergia e promozione
-## Mini percorsi urbani ed il percorso 9 ceste fuori porta seguendo lo stile Nord Europeo
-<br />
-
-- Location ideali: facilmente accessibili e immerse nella natura
-- Design dei percorsi adatti a principianti ed esperti
-- Possibilità di ospitare tornei regionali e nazionali
-- Organizzazione di eventi di introduzione e open day sia in città che fuori porta
+- creazione primo percorso ufficiale 9 ceste al Parco delle Ginestre
+- organizzazione open day e tornei sul percorso ufficiale
+- promozione nazionale ed internazionale del percorso ufficiale sulle piattaforme di settore (udisc, pdga)
+- promozione locale del Disc Golf in scuole e parchi urbani durante eventi per studenti, giovani, sportivi e amanti della natura
 
 ---
 layout: image-left
@@ -181,13 +159,13 @@ class: investimento
 ---
 
 # Investimento
-## Un progetto economico, aperto a collaborazioni e <span class="text-pink-500">sponsorizzazioni</span>
+## Un progetto economico e sostenibile
 <br/>
 
-- Costo stimato per l'installazione:
-  - mini percorso 6 ceste: 3.500€ circa <br/>(tee + ceste + tee sign + mappa)
-  - percorso 9 ceste: 5.000€ circa <br/>(tee + ceste + tee sign + mappa)
-- Possibilità di coprire parte dell'investimento con donazioni e sponsorizzazioni
+Costo stimato per l'installazione:
+  - percorso 9 ceste: 5.500€ circa (tee + ceste + tee sign + mappa)
+
+Dopo l'installazione il percorso non aumenta il costo di manutenzione rispetto alla gestione del parco attuale.
 
 ---
 layout: image-left
@@ -229,8 +207,6 @@ class: richieste
 
 - <span class="text-pink-500">Autorizzazione ad usare i parchi con ceste e cartellonistiche temporanee</span>
 - <span class="text-cyan-500">Organizzazione allenamenti e open day</span>
-- <span class="text-pink-500">Definizione budget e sponsorizzazioni</span>
-- <span class="text-pink-500">Verifica fattibilità e modalità installazione</span>
 - <span class="text-pink-500">Delibera Comunale per installazione percorsi</span>
 - <span class="text-cyan-500">Design finale percorsi</span>
 - <span class="text-pink-500">Installazione ceste e cartellonistiche fisse</span>
