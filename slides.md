@@ -67,6 +67,11 @@ small {
 .col-left.europe h2 {
   font-size: 1.45rem;
 }
+
+.m-neg-2 {
+  margin-top: 0rem !important;
+  margin-bottom: .2rem !important;
+}
 </style>
 
 # Disc Golf Romagna
@@ -91,11 +96,10 @@ class: center
 ---
 # Video
 ## A volte basta un lancio: ace!
+<p class="m-neg-2"><small ><a href="https://www.youtube.com/watch?v=bc-NVz5i_7w" target="_blank">link alternativo nel caso non funzioni il video qui sotto</a></small></p>
 <video loop autoplay>
   <source src="/ace.mp4" type="video/mp4">
 </video>
-
-<a href="https://www.youtube.com/watch?v=bc-NVz5i_7w" target="_blank">link alternativo nel caso non funzioni il video qui sopra</a>
 
 ---
 layout: image-left
