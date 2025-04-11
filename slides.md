@@ -95,6 +95,8 @@ class: center
   <source src="/ace.mp4" type="video/mp4">
 </video>
 
+<a href="https://www.youtube.com/watch?v=bc-NVz5i_7w" target="_blank">link alternativo nel caso non funzioni il video qui sopra</a>
+
 ---
 layout: image-left
 image: /stats.png
