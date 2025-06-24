@@ -160,16 +160,17 @@ class: progetto
 
 ---
 layout: image-left
-image: /kids.jpg
+image: /mappa.jpg
 class: investimento
 ---
 
-# Investimento
-## Un progetto economico e sostenibile
+# Progetto
+## Il primo percorso 9 buche della Romagna
 <br/>
 
-Costo stimato per l'installazione:
-  - percorso 9 ceste: 5.500€ circa (tee + ceste + tee sign + mappa)
+Il percorso fisso è il primo passo indispensabile per la promozione di questo sport in questa zona, grazie a questo percorso potremo organizzare allenamenti, gare amatoriali e anche gare ufficiali PDGA.
+
+Al momento il percorso fisso più vicino è a Busseto, Parma.
 
 Dopo l'installazione il percorso non aumenta il costo di manutenzione rispetto alla gestione del parco attuale.
 
@@ -208,15 +209,17 @@ layout: image-left
 image: /attention.jpg
 class: richieste
 ---
-# Richieste e <span class="text-cyan-500">prossimi passi</span>
+# Stato <span class="text-cyan-500">aggiornato</span> del progetto 
 <br/>
 
-- <span class="text-pink-500">Autorizzazione ad usare i parchi con ceste e cartellonistiche temporanee</span>
-- <span class="text-cyan-500">Organizzazione allenamenti e open day</span>
-- <span class="text-pink-500">Delibera Comunale per installazione percorsi</span>
-- <span class="text-cyan-500">Design finale percorsi</span>
-- <span class="text-pink-500">Installazione ceste e cartellonistiche fisse</span>
-- Inaugurazione ufficiale percorsi
+- ✅ <small>Autorizzazione ad usare il parco con ceste temporanee</small>
+- ✅ <small>Organizzazione allenamenti e open day</small>
+- ✅ <small>Delibera Comunale per installazione percorso</small>
+- ✅ <small>Design finale percorso</small>
+- 🚧 <small>Installazione ceste e cartellonistiche fisse</small>
+- 🚧 <small>Organizzazione corsi formazione per scuole</small>
+- 🚧 <small>Organizzazione campionato scolastico regionale</small>
+- 🚧 <small>Inaugurazione ufficiale percorso</small>
 
 ---
 layout: image-left
