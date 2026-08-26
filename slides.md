@@ -172,7 +172,9 @@ Il percorso fisso è il primo passo indispensabile per la promozione di questo s
 
 Al momento il percorso fisso più vicino è a Busseto, Parma.
 
-Dopo l'installazione il percorso non aumenta il costo di manutenzione rispetto alla gestione del parco attuale.
+Dopo l'installazione il percorso non aumenta il costo di manutenzione rispetto alla gestione del parco attuale. **
+
+** ordinaria gestione del verde 4/5 tagli annui
 
 ---
 layout: image-left
@@ -206,24 +208,79 @@ class: sostenibilita
 
 ---
 layout: image-left
-image: /attention.jpg
+image: /gruppo1.jpg
 class: richieste
 ---
-# Stato <span class="text-cyan-500">aggiornato</span> del progetto 
+# Aggiornamento Agosto 2026 #1
 <br/>
 
-- ✅ <small>Autorizzazione ad usare il parco con ceste temporanee</small>
-- ✅ <small>Organizzazione allenamenti e open day</small>
-- ✅ <small>Delibera Comunale per installazione percorso</small>
-- ✅ <small>Design finale percorso</small>
-- 🚧 <small>Installazione ceste e cartellonistiche fisse</small>
-- 🚧 <small>Organizzazione corsi formazione per scuole</small>
+- ✅ <small>10/07/2025 [Delibera Comunale](https://www.comune.faenza.ra.it/novita/comunicati/al-parco-delle-ginestre-di-oriolo-dei-fichi-arriva-il-disc-golf)</small>
+- ✅ <small>31/07/2025 Design finale percorso</small>
+- ✅ <small>17/08/2025 Installazione ceste</small>
+- ✅ <small>15/09/2025 Corso formazione per scuole<br/>(coinvolti 15 professori)</small>
 - 🚧 <small>Organizzazione campionato scolastico regionale</small>
-- 🚧 <small>Inaugurazione ufficiale percorso</small>
+- ✅ <small>16/09/2025 [Festa Pre Inaugurazione](https://discgolfromagna.it/news/2025-09-15-report-festa-pre-inaugurazione/) 28 partecipanti</small>
 
 ---
 layout: image-left
-image: /saluti.jpg
+image: /gruppo.webp
+class: richieste
+---
+# Aggiornamento Agosto 2026 #2
+<br/>
+
+- ✅ <small>Organizzazione campionati locali di promozione</small>
+- &nbsp;&nbsp;&nbsp;&nbsp; <small>[autumn league 2025](https://udisc.com/leagues/weekly-autumn-league-ginestre-2025-Kuxn4i/standings?seasonId=season_cr8t7imsmzzss19anpzcn74x&division=GEN) **12 partecipanti**</small>
+- &nbsp;&nbsp;&nbsp;&nbsp; <small>[winter league 2026](https://udisc.com/leagues/sunday-winter-league-ginestre-2025-VIJUO1/standings?seasonId=season_ch27yiwg3zcu60nllaknjp80&division=gen) **13 partecipanti**</small>
+- &nbsp;&nbsp;&nbsp;&nbsp; <small>[summer league 2026](https://udisc.com/leagues/early-summer-2026-crazy-league-LlJGYf) **16 partecipanti**</small>
+- ✅ <small>[Winter League (Campionato Emilia Romagna, Parma, Busseto, Faenza)](https://udisc.com/leagues/emilia-romagna-winter-league-2025-GHOb5j)</small>
+- &nbsp;&nbsp;&nbsp;&nbsp; <small>19/10/2025 Tappa #1 **16 partecipanti**</small>
+- &nbsp;&nbsp;&nbsp;&nbsp; <small>08/03/2026 Tappa #6 **22 partecipanti**</small>
+- ✅ <small>[Torneo PDGA Dailamola 24 partecipanti](https://www.pdga.com/tour/event/103423)</small>
+
+---
+layout: image-left
+image: /famiglia.jpg
+class: richieste
+---
+# Aggiornamento Agosto 2026 #3 Statistiche UDISC
+<br/>
+
+- 137 giocatori unici
+- 1.585 round giocati
+- 1.869 ore di gioco
+- 14 Stati coinvolti (Australia, Belgium, Canada, Czechia, Denmark, Estonia, Germany, Italy, Netherlands, New Zealand, Norway, Poland, Sweden, United States)
+
+---
+class: intro
+layout: image
+image: /stats1.jpg
+---
+
+---
+class: intro
+layout: image
+image: /stats2.jpg
+---
+
+---
+layout: image-left
+image: /problema.jpeg
+class: richieste
+---
+# Aggiornamento Agosto 2026 #4 Punti Aperti
+
+- gestione verde regolare <small>(4/5 tagli annui, non serve extra, ma una gestione ordinaria per evitare la selva)</small>
+- gestione rifiuti <small>barqueque selvaggi, i bbq non sono un problema in se, sono i rifiuti e la sporcizia che non sono gestiti</small>
+- insegne stradali 'disc golf park ginestre'
+- fontana acqua potabile
+- pozzetti cemento per sostituire gradualmente i tronchi che cedono
+- studiare possibili espansioni a 18 buche
+- studiare possibili migliorie a tee pad
+
+---
+layout: image-left
+image: /nice.jpg
 class: outro
 ---
 
@@ -231,6 +288,6 @@ class: outro
 
 [<span class="text-cyan-500">ASD Hard Disc Dogs</span>](https://www.harddiscdogs.com)
 <br/>
-[<span class="text-pink-500">www.harddiscdogs.com</span>](https://www.harddiscdogs.com)
+[<span class="text-pink-500">www.discgolfromagna.it</span>](https://www.discgolfromagna.it)
 <br/>
 [<span class="text-cyan-500">info@harddiscdogs.com</span>](mailto:info@harddiscdogs.com)
