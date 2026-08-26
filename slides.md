@@ -77,6 +77,16 @@ small {
   background-size: contain !important;
 }
 
+.contain-green {
+  background-color: rgb(164,209,73) !important;
+  background-size: contain !important;
+}
+
+.contain-yellow {
+  background-color: rgb(243,215,76) !important;
+  background-size: contain !important;
+}
+
 </style>
 
 # Disc Golf Romagna
@@ -216,7 +226,7 @@ layout: image-left
 image: /gruppo1.jpg
 class: richieste
 ---
-# Aggiornamento Agosto 2026 #1
+# Agosto 2026 #1
 <br/>
 
 - ✅ <small>10/07/2025 [Delibera Comunale](https://www.comune.faenza.ra.it/novita/comunicati/al-parco-delle-ginestre-di-oriolo-dei-fichi-arriva-il-disc-golf)</small>
@@ -231,7 +241,7 @@ layout: image-left
 image: /gruppo.webp
 class: richieste
 ---
-# Aggiornamento Agosto 2026 #2
+# Agosto 2026 #2
 <br/>
 
 - ✅ <small>Organizzazione campionati locali di promozione</small>
@@ -248,13 +258,14 @@ layout: image-left
 image: /famiglia.jpg
 class: richieste
 ---
-# Aggiornamento Agosto 2026 #3 Statistiche UDISC
+# Agosto 2026 #3 Statistiche UDISC
 <br/>
 
 - 137 giocatori unici
 - 1.585 round giocati
 - 1.869 ore di gioco
 - 14 Stati coinvolti (Australia, Belgium, Canada, Czechia, Denmark, Estonia, Germany, Italy, Netherlands, New Zealand, Norway, Poland, Sweden, United States)
+- 15 recensioni - Rating 4.4 (56 ratings)
 
 ---
 class: intro
@@ -288,16 +299,46 @@ image: /review3.jpg
 
 ---
 layout: image-left
+image: /tee-sign-real.png
+class: ooooooo
+---
+# Agosto 2026 #5 Allegati
+<br/>
+
+- tee sign installato
+  - emblema comune di faenza
+  - logo sponsor cesta
+- mappa percorso installata
+  - emblema comune di faenza
+  - logo sponsor percorso
+- cesta installata su tronco
+
+---
+class: contain-green
+layout: image
+image: /dgr-map.png
+---
+
+
+---
+class: intro
+layout: image
+image: /cesta.webp
+---
+
+
+---
+layout: image-left
 image: /problema.jpeg
 class: richieste
 ---
-# Aggiornamento Agosto 2026 #4 Punti Aperti
+# Agosto 2026 #4 Punti Aperti
 
 - gestione verde regolare <small>(4/5 tagli annui, non serve extra, ma una gestione ordinaria per evitare la selva)</small>
 - gestione rifiuti <small>barqueque selvaggi, i bbq non sono un problema in se, sono i rifiuti e la sporcizia che non sono gestiti</small>
 - insegne stradali 'disc golf park ginestre'
 - fontana acqua potabile
-- pozzetti cemento per sostituire gradualmente i tronchi che cedono
+- autorizzazione pozzetti per sostituire gradualmente i tronchi che cedono
 - studiare possibili espansioni a 18 buche
 - studiare possibili migliorie a tee pad
 
