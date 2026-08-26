@@ -72,6 +72,11 @@ small {
   margin-top: 0rem !important;
   margin-bottom: .2rem !important;
 }
+
+.contain {
+  background-size: contain !important;
+}
+
 </style>
 
 # Disc Golf Romagna
@@ -261,6 +266,24 @@ image: /stats1.jpg
 class: intro
 layout: image
 image: /stats2.jpg
+---
+
+---
+class: contain
+layout: image
+image: /review1.jpg
+---
+
+---
+class: contain
+layout: image
+image: /review2.jpg
+---
+
+---
+class: contain
+layout: image
+image: /review3.jpg
 ---
 
 ---
