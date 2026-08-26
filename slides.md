@@ -230,6 +230,15 @@ class: richieste
 <br/>
 
 - ✅ <small>10/07/2025 [Delibera Comunale](https://www.comune.faenza.ra.it/novita/comunicati/al-parco-delle-ginestre-di-oriolo-dei-fichi-arriva-il-disc-golf)</small>
+
+```
+"Il progetto si inserisce nelle politiche di valorizzazione del patrimonio verde comunale e di promozione dell'attività fisica all'aria aperta"
+
+"Il progetto si integra perfettamente nel contesto naturale dell'area, contribuendo a incentivare la partecipazione e la valorizzazione del parco per attività sportive non impattanti e per momenti di creatività"
+
+"L'introduzione del Disc Golf al Parco delle Ginestre si configura come un ulteriore tassello nella strategia di promozione del territorio e di offerta di opportunità ricreative e sportive alla comunità."
+```
+
 - ✅ <small>31/07/2025 Design finale percorso</small>
 - ✅ <small>17/08/2025 Installazione ceste</small>
 - ✅ <small>15/09/2025 Corso formazione per scuole<br/>(coinvolti 15 professori)</small>
@@ -248,10 +257,10 @@ class: richieste
 - &nbsp;&nbsp;&nbsp;&nbsp; <small>[autumn league 2025](https://udisc.com/leagues/weekly-autumn-league-ginestre-2025-Kuxn4i/standings?seasonId=season_cr8t7imsmzzss19anpzcn74x&division=GEN) **12 partecipanti**</small>
 - &nbsp;&nbsp;&nbsp;&nbsp; <small>[winter league 2026](https://udisc.com/leagues/sunday-winter-league-ginestre-2025-VIJUO1/standings?seasonId=season_ch27yiwg3zcu60nllaknjp80&division=gen) **13 partecipanti**</small>
 - &nbsp;&nbsp;&nbsp;&nbsp; <small>[summer league 2026](https://udisc.com/leagues/early-summer-2026-crazy-league-LlJGYf) **16 partecipanti**</small>
-- ✅ <small>[Winter League (Campionato Emilia Romagna, Parma, Busseto, Faenza)](https://udisc.com/leagues/emilia-romagna-winter-league-2025-GHOb5j)</small>
-- &nbsp;&nbsp;&nbsp;&nbsp; <small>19/10/2025 Tappa #1 **16 partecipanti**</small>
-- &nbsp;&nbsp;&nbsp;&nbsp; <small>08/03/2026 Tappa #6 **22 partecipanti**</small>
-- ✅ <small>[Torneo PDGA Dailamola 24 partecipanti](https://www.pdga.com/tour/event/103423)</small>
+- ✅ <small>[Winter League (Campionato Emilia Romagna, Parma, Busseto, Faenza)](https://udisc.com/leagues/emilia-romagna-winter-league-2025-GHOb5j) **66 partecipanti totali**</small>
+- &nbsp;&nbsp;&nbsp;&nbsp; <small>19/10/2025 [Tappa #1](https://udisc.com/events/faenza-emilia-romagna-winter-league-2025-N5JMvB/participants) **16 partecipanti**</small>
+- &nbsp;&nbsp;&nbsp;&nbsp; <small>08/03/2026 [Tappa #6](https://udisc.com/events/emilia-romagna-winter-league-2025-faenza-emilia-romagna-winter-league-2025-5j7ibW/participants) **22 partecipanti**</small>
+- ✅ <small>[Torneo PDGA Dailamola **24 partecipanti**](https://www.pdga.com/tour/event/103423)</small>
 
 ---
 layout: image-left
@@ -261,11 +270,13 @@ class: richieste
 # Agosto 2026 #3 Statistiche UDISC
 <br/>
 
-- 137 giocatori unici
-- 1.585 round giocati
-- 1.869 ore di gioco
-- 14 Stati coinvolti (Australia, Belgium, Canada, Czechia, Denmark, Estonia, Germany, Italy, Netherlands, New Zealand, Norway, Poland, Sweden, United States)
-- 15 recensioni - Rating 4.4 (56 ratings)
+- **137** giocatori unici
+  - 30/40 circa coinvolti dalle nostre attività
+  - quasi 100 giocatori sono sicuramente dovuti al turismo legato allo sport
+- **1.585** round giocati
+- **1.869** ore di gioco
+- **14 Stati** coinvolti (Australia, Belgium, Canada, Czechia, Denmark, Estonia, Germany, Italy, Netherlands, New Zealand, Norway, Poland, Sweden, United States)
+- **15** recensioni - Rating **4.4/5** (56 ratings)
 
 ---
 class: intro
